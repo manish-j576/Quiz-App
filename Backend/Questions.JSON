@@ -1,0 +1,112 @@
+[
+    {
+        "id": 1,
+        "question": "What is the correct syntax to output 'Hello, World' in Python?",
+        "options": [
+            "echo 'Hello, World'",
+            "print('Hello, World')",
+            "printf('Hello, World')",
+            "cout << 'Hello, World'"
+        ],
+        "correct_answer": "print('Hello, World')"
+    },
+    {
+        "id": 2,
+        "question": "Which data type is used to store text in Python?",
+        "options": [
+            "int",
+            "float",
+            "str",
+            "bool"
+        ],
+        "correct_answer": "str"
+    },
+    {
+        "id": 3,
+        "question": "What will be the output of 3 + 2 * 2?",
+        "options": [
+            "10",
+            "7",
+            "9",
+            "8"
+        ],
+        "correct_answer": "7"
+    },
+    {
+        "id": 4,
+        "question": "Which operator is used to check for equality in Python?",
+        "options": [
+            "==",
+            "=",
+            "!=",
+            "<>"
+        ],
+        "correct_answer": "=="
+    },
+    {
+        "id": 5,
+        "question": "What is the output of 'Hello' + 'World' in Python?",
+        "options": [
+            "HelloWorld",
+            "Hello World",
+            "Error",
+            "'HelloWorld'"
+        ],
+        "correct_answer": "HelloWorld"
+    },
+    {
+        "id": 6,
+        "question": "Which keyword is used to define a function in Python?",
+        "options": [
+            "func",
+            "def",
+            "function",
+            "define"
+        ],
+        "correct_answer": "def"
+    },
+    {
+        "id": 7,
+        "question": "How do you create a variable with the floating number 2.8?",
+        "options": [
+            "x = float(2.8)",
+            "x = 2.8",
+            "Both A and B",
+            "None of the above"
+        ],
+        "correct_answer": "Both A and B"
+    },
+    {
+        "id": 8,
+        "question": "What is the output of len('Python')?",
+        "options": [
+            "5",
+            "6",
+            "7",
+            "Error"
+        ],
+        "correct_answer": "6"
+    },
+    {
+        "id": 9,
+        "question": "Which method is used to convert a string to lowercase in Python?",
+        "options": [
+            "toLowerCase()",
+            "lower()",
+            "downcase()",
+            "casefold()"
+        ],
+        "correct_answer": "lower()"
+    },
+    {
+        "id": 10,
+        "question": "Which of these is a mutable data type in Python?",
+        "options": [
+            "tuple",
+            "list",
+            "string",
+            "int"
+        ],
+        "correct_answer": "list"
+    }
+]
